@@ -66,9 +66,9 @@
 }
 
 #juan{
-	width: 400px;
+	width: 550px;
     max-width: 600px;
-    margin-bottom: -165px;
+    margin-bottom: -185px;
 }
 
 #indepth_tiempo_cont{
@@ -849,9 +849,9 @@
 	}
 
 	#juan {
-	    width: 300px;
+	    width: 400px;
 	    max-width: 600px;
-	    margin-bottom: -90px;
+	    margin-bottom: -180px;
 	}
 
 }
@@ -903,9 +903,9 @@
 	}
 
 	#juan {
-	    width: 240px;
+	    width: 360px;
 	    max-width: 600px;
-	    margin-bottom: -165px;
+	    margin-bottom: -200px;
 	}
 }
 
@@ -1009,9 +1009,9 @@
 	}
 
 	#juan {
-	    width: 180px;
+	    width: 340px;
 	    max-width: 600px;
-	    margin-bottom: -165px;
+	    margin-bottom: -200px;
 	}
 
 }
