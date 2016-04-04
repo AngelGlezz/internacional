@@ -343,7 +343,7 @@ $("#indepth_twittear").click(function(){
 	if(!disable){
 
 		
-		var text = encodeURIComponent("Mi predicción es: Wolfsburg "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Real Madrid primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
+		var text = encodeURIComponent("Mi predicción es: PSG "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Man City primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
 		var url = encodeURIComponent("http://juanfutbol.com/indepth/");
 		window.open("https://twitter.com/share?text="+text+"&hashtags=juanfutbol&url="+url,"","width=500, height=300");
 
