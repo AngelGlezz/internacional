@@ -1,169 +1,169 @@
 {
   "preguntas": [
     {
-      "pregunta": "¿Cuántos títulos de Champions tiene el Real Madrid?",
+      "pregunta": "¿Cuántas Champions League ha ganado el Real Madrid?",
       "respuestas": [
         {
-          "respuesta": "10",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "8",
+          "respuesta": "3",
           "tipo": "false"
         },
-        {
-          "respuesta": "12",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "9",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Cuántos títulos ganó el Barcelona con Pep Guardiola?",
-      "respuestas": [
         {
           "respuesta": "10",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "14",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "17",
           "tipo": "false"
         },
         {
           "respuesta": "11",
           "tipo": "false"
+        },
+        {
+          "respuesta": "8",
+          "tipo": "false"
         }
       ]
     },
     {
-      "pregunta": "¿Nombre del estadio del Manchester United?",
+      "pregunta": "¿Quién es el jugador con más partidos en Champions League?",
       "respuestas": [
         {
-          "respuesta": "Stamford Bridge",
+          "respuesta": "Iker Casillas",
           "tipo": "false"
         },
         {
-          "respuesta": "Emirates Arena",
+          "respuesta": "Xavi Hernández",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Raúl González",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Fernando Hierro",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué equipos disputaron la final de la temporada 2014-15?",
+      "respuestas": [
+        {
+          "respuesta": "Real Madrid vs Bayern",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Barcelona vs Real Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juventus vs Barcelona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bayern vs Juventus",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio ha ganado dos Champions el Barcelona?",
+      "respuestas": [
+        {
+          "respuesta": "Olímpico de Berlín",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Stade de France",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Allianz Arena",
           "tipo": "false"
         },
         {
           "respuesta": "Wembley",
           "tipo": "false"
-        },
-        {
-          "respuesta": "Old Trafford",
-          "tipo": "true"
         }
       ]
     },
     {
-      "pregunta": "¿Apodo del Atlético de Madrid?",
+      "pregunta": "¿En qué año ganó la Décima el Madrid frente al Atlético?",
       "respuestas": [
         {
-          "respuesta": "Los madridistas",
+          "respuesta": "2010",
           "tipo": "false"
         },
         {
-          "respuesta": "Los merengues",
+          "respuesta": "2006",
           "tipo": "false"
         },
         {
-          "respuesta": "Los colchoneros",
-          "tipo": "true"
+          "respuesta": "2012",
+          "tipo": "false"
         },
         {
-          "respuesta": "Los de la capital",
+          "respuesta": "2014",
           "tipo": "false"
         }
       ]
     },
     {
-      "pregunta": "¿Cuántos títulos de liga tiene el Manchester City?",
+      "pregunta": "¿Contra qué equipo ganó la Champions el Barcelona en 2006?",
       "respuestas": [
         {
-          "respuesta": "4",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "8",
+          "respuesta": "Juventus",
           "tipo": "false"
         },
         {
-          "respuesta": "10",
+          "respuesta": "Ajax",
           "tipo": "false"
         },
+        {
+          "respuesta": "Arsenal",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Manchester United",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio se jugará la final de la Champions 2015-2016?",
+      "respuestas": [
+        {
+          "respuesta": "Camp Nou",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "San Siro",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Allianz Arena",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bernabéu",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Copas de Europa ha ganado el Benfica?",
+      "respuestas": [
         {
           "respuesta": "2",
           "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Año de fundación del Atlético de Madrid?",
-      "respuestas": [
+        },
         {
-          "respuesta": "1905",
+          "respuesta": "0",
           "tipo": "false"
         },
         {
-          "respuesta": "1910",
+          "respuesta": "5",
           "tipo": "false"
         },
         {
-          "respuesta": "1903",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "1909",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Máximo goleador en la Liga española?",
-      "respuestas": [
-        {
-          "respuesta": "Cristiano Ronaldo",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Lionel Messi",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Telmo Zarra",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Hugo Sánchez",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Club con más títulos en la Primeira Liga?",
-      "respuestas": [
-        {
-          "respuesta": "Porto",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Benfica",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Sporting Lisboa",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Braga",
+          "respuesta": "f",
           "tipo": "false"
         }
       ]
@@ -181,7 +181,7 @@
         },
         {
           "respuesta": "Logroñés",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Athletic Bilbao",
@@ -194,7 +194,7 @@
       "respuestas": [
         {
           "respuesta": "25",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "20",
@@ -215,7 +215,7 @@
       "respuestas": [
         {
           "respuesta": "You'll never walk alone",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "We will rock you",
@@ -244,7 +244,7 @@
         },
         {
           "respuesta": "27",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "22",
@@ -257,7 +257,7 @@
       "respuestas": [
         {
           "respuesta": "Lionel Messi",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Ladislao Kubala",
@@ -282,7 +282,7 @@
         },
         {
           "respuesta": "Real Madrid - Barcelona",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Barcelona - Valencia",
@@ -303,7 +303,7 @@
         },
         {
           "respuesta": "La Vieja Señora",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Los ganadores",
@@ -320,7 +320,7 @@
       "respuestas": [
         {
           "respuesta": "3",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "5",
@@ -341,7 +341,7 @@
       "respuestas": [
         {
           "respuesta": "Marco Reus",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Robert Lewandowski",
@@ -362,7 +362,7 @@
       "respuestas": [
         {
           "respuesta": "Messi, Suárez y Neymar",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Messi, Sandro y Neuer",
@@ -383,7 +383,7 @@
       "respuestas": [
         {
           "respuesta": "Arsene Wenger",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Louis Van Gaal",
@@ -412,7 +412,7 @@
         },
         {
           "respuesta": "1902",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "1904",
@@ -433,7 +433,7 @@
         },
         {
           "respuesta": "Francesco Totti",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Gabriel Batistuta",
@@ -458,7 +458,7 @@
         },
         {
           "respuesta": "Arsenal",
-          "tipo": "true"
+          "tipo": "false"
         }
       ]
     },
@@ -471,7 +471,7 @@
         },
         {
           "respuesta": "1",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "2",
@@ -488,7 +488,7 @@
       "respuestas": [
         {
           "respuesta": "Hernán Crespo",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Ángel Di María",
@@ -517,535 +517,10 @@
         },
         {
           "respuesta": "Carlo Ancelotti",
-          "tipo": "true"
+          "tipo": "false"
         },
         {
           "respuesta": "Fabio Capello",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Apodo de Cristiano Ronaldo?",
-      "respuestas": [
-        {
-          "respuesta": "CR7",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "CR9",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "R9",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Cristiano R7",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Nombre del estadio del Barcelona?",
-      "respuestas": [
-        {
-          "respuesta": "Nou Camp",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "El Madrigal",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Ciudad Deportiva",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Camp Nou",
-          "tipo": "true"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Año del retiro de Zinedine Zidane?",
-      "respuestas": [
-        {
-          "respuesta": "2005",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "2006",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "2008",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "2002",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿A cuántos mundiales ha ido Gianluigi Buffon?",
-      "respuestas": [
-        {
-          "respuesta": "4",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "3",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "5",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "2",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Actual jugador del Liverpool?",
-      "respuestas": [
-        {
-          "respuesta": "Luis Suárez",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Steven Gerrard",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Philippe Coutinho",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Pepe Reina",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Actual entrenador del Real Madrid?",
-      "respuestas": [
-        {
-          "respuesta": "Rafa Benítez",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Zinedine Zidane",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Raúl González",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "José Mourinho",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Cuántos Balones de Oro tiene Lionel Messi?",
-      "respuestas": [
-        {
-          "respuesta": "3",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "6",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "5",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "4",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿La BBC está conformada por?",
-      "respuestas": [
-        {
-          "respuesta": "Benzema, Bale y Cavani",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Bale, Busquets y Cristiano",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Benzema, Bale y Cristiano",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Busquets, Bacca y Cristiano",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Actual jugador del Bayern Munich?",
-      "respuestas": [
-        {
-          "respuesta": "Arjen Robben",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Lionel Messi",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Gareth Bale",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Yaya Touré",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Máximo equipo ganador de la Champions?",
-      "respuestas": [
-        {
-          "respuesta": "Barcelona",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Manchester United",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Real Madrid",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Bayern Munich",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Actual jugador del PSG?",
-      "respuestas": [
-        {
-          "respuesta": "Thiago Silva",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Ronaldinho",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Neymar",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Ezequiel Lavezzi",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Año de fundación del Barcelona?",
-      "respuestas": [
-        {
-          "respuesta": "1900",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "1899",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "1905",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "1910",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Nombre del estadio del Real Madrid?",
-      "respuestas": [
-        {
-          "respuesta": "Camp Nou",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Santiago Bernabéu",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Mestalla",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Riazor",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Brasileño que jugó en el Real Madrid?",
-      "respuestas": [
-        {
-          "respuesta": "Dida",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Kaká",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Adriano",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "David Luiz",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Equipo en el que jugó el Chicharito?",
-      "respuestas": [
-        {
-          "respuesta": "Barcelona",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "West Ham",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Real Madrid",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Schalke",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "¿Equipo en el que jugó Cuauhtémoc Blanco?",
-      "respuestas": [
-        {
-          "respuesta": "Getafe",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Valencia",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Levante",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Valladolid",
-          "tipo": "true"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Selección que ha ganado más Mundiales?",
-      "respuestas": [
-        {
-          "respuesta": "Argentina",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Alemania",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Italia",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Brasil",
-          "tipo": "true"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Equipo en el que jugó Maradona?",
-      "respuestas": [
-        {
-          "respuesta": "Real Madrid",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Milan",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Juventus",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Barcelona",
-          "tipo": "true"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Entrenador apodado The Special One?",
-      "respuestas": [
-        {
-          "respuesta": "Pep Guardiola",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "José Mourinho",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Jürgen Klopp",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Luis Enrique",
-          "tipo": "false"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Cuántas Champions ha ganado el Barcelona?",
-      "respuestas": [
-        {
-          "respuesta": "6",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "9",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "3",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "5",
-          "tipo": "true"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Mexicano que juega en el Benfica?",
-      "respuestas": [
-        {
-          "respuesta": "Miguel Layún",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Alan Pulido",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Raúl Jiménez",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Raúl Gudiño",
-          "tipo": "false"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Jugador que fue suspendido por morder al rival?",
-      "respuestas": [
-        {
-          "respuesta": "Edinson Cavani",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Luis Suárez",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Neymar",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Pepe",
-          "tipo": "false"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Actual campeón de Italia?",
-      "respuestas": [
-        {
-          "respuesta": "Napoli",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Roma",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Milan",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Juventus",
-          "tipo": "true"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Actual entrenador del Manchester United?",
-      "respuestas": [
-        {
-          "respuesta": "Louis Van Gaal",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Pep Guardiola",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Guus Hiddink",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "José Mourinho",
-          "tipo": "false"
-        }
-      ]
-    }
-    {
-      "pregunta": "¿Año de fundación del Manchester City?",
-      "respuestas": [
-        {
-          "respuesta": "1894",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "1900",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "1890",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "1899",
           "tipo": "false"
         }
       ]

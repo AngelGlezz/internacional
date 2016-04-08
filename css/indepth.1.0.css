@@ -66,8 +66,8 @@
 }
 
 #juan{
-	width: 550px;
-    max-width: 600px;
+	width: 786px;
+	max-width: 786px;
     margin-bottom: 0px;
 }
 
@@ -759,6 +759,14 @@
 	    margin: auto;
 	}
 		
+}
+
+@media screen and (max-width: 700px){
+	#juan {
+	    width: 400px;
+	    max-width: 600px;
+	    margin-bottom: 0px;
+	}
 }
 
 @media screen and (max-width: 640px) {
